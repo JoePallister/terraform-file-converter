@@ -16,6 +16,8 @@ added s3 file making 3 buckets, added data zipping the lambda, added the zipped 
 
 added lambda file making the lambda function. This references the lambda resource in (1)
 
+Added iam terraform file. Added role for the lambda. Needed to create a vars.tf file to give it the parametrized prefix.
+
 To fix:
 
 test folder was just copied, just has tests from before.
