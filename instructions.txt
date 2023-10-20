@@ -8,12 +8,13 @@ git remote add origin https://github.com/JoePallister/terraform-file-converter
 
 git add, commit and push to set up. 
 
-
-!!!!!!
-Renamed the workflows folder to workflow, to stop it working, need to fix this.
-
-
 Added secret keys to github secrets (found in hidden .aws folder)
+
+To terraform folder: 
+
+added s3 file making 3 buckets, added data zipping the lambda, added the zipped as a resource (1). 
+
+added lambda file making the lambda function. This references the lambda resource in (1)
 
 To fix:
 
