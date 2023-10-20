@@ -1,0 +1,13 @@
+Copied workflows/test-and-deployment.yml, Makefile and file-converter from previous repo.
+
+Ran git init. Made new repo (on site). 
+
+Set git origin
+
+git remote add origin https://github.com/JoePallister/terraform-file-converter
+
+git add, commit and push to set up. 
+
+
+!!!!!!
+Renamed the workflows folder to workflow, to stop it working, need to fix this.
