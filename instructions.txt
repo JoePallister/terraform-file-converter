@@ -14,3 +14,7 @@ Renamed the workflows folder to workflow, to stop it working, need to fix this.
 
 
 Added secret keys to github secrets (found in hidden .aws folder)
+
+To fix:
+
+test folder was just copied, just has tests from before.
