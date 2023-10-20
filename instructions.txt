@@ -11,3 +11,6 @@ git add, commit and push to set up.
 
 !!!!!!
 Renamed the workflows folder to workflow, to stop it working, need to fix this.
+
+
+Added secret keys to github secrets (found in hidden .aws folder)
